@@ -1,0 +1,18 @@
+.CardContainer {
+
+  a {
+    margin: min(20px) min(20px);
+  }
+
+  .rating {
+    z-index: 5;
+  }
+}
+
+.fave-true {
+  color: rgb(232, 181, 27);
+
+  &:hover {
+    color: rgb(91, 91, 91);
+  }
+}
